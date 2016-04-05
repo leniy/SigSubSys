@@ -1,0 +1,1 @@
+译servlet程序:编译servlet程序需要把C:\Tomcat 4.1\common\lib\servlet.jar文件复制到C:\j2sdk1.4.0_01\jre\lib\ext目录下,否则会发生编译错误.

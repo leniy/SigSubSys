@@ -1,0 +1,43 @@
+body {
+	background-color:#b0e0e6;
+}
+
+p {
+	font-size:20px;
+	font-weight:bold;
+	padding-top: 100;
+    padding-left: 100;
+}
+
+table {
+	margin:200 auto 30 auto;
+	border-collapse:collapse;
+	border:1px solid black;
+}
+
+th {
+	background-color:blue;
+	color:white;
+	font-size:20px;
+	font-weight:normal;
+	border:1px solid black;
+}
+
+td {
+	border:1px solid black;
+	font-size:20px;
+	width:200px;
+	text-align:center;
+}
+div
+{
+margin:0 auto;
+text-align:center;
+}
+div input
+{
+	width:120px;
+	height:35px;
+	margin:0 15;
+	font-size:15px;
+}
