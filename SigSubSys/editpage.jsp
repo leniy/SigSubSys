@@ -4,7 +4,7 @@
 <html>
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
-	<link rel="stylesheet" type="text/css" href="editpage.css" />
+	<link rel="stylesheet" type="text/css" href="css/editpage.css" />
 	<title>编辑信息</title>
 </head>
 <body>
