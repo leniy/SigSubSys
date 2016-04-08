@@ -23,10 +23,6 @@
 			<param-name>proLogin</param-name>
 			<param-value>/login</param-value>
 		</init-param>
-		<init-param>
-			<param-name>cssFile</param-name>
-			<param-value>/mystyle.css</param-value>
-		</init-param>
 		
 	</filter>
 	<!-- 定义Filter拦截的URL地址 -->
