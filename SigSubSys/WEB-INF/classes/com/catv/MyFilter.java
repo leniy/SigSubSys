@@ -37,7 +37,8 @@ public class MyFilter implements Filter
 		if(session.getAttribute("user") == null
 			&& !requestPath.endsWith(loginPage)
 			&& !requestPath.endsWith(proLogin) 
-			&& !requestPath.endsWith(cssFile))
+			&& !requestPath.endsWith(".css")
+			&& !requestPath.endsWith(".js"))
 		{
 			//forward到登录页面
 			request.setAttribute("tip" , "您还没有登录");
